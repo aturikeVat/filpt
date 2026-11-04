@@ -1,4 +1,9 @@
 version: "1.6"
 namespace:
-  key: payments
-  name: payments
+    key: payments
+    name: payments
+flags:
+    - key: hems
+      name: hems
+      type: BOOLEAN_FLAG_TYPE
+      enabled: false
