@@ -7,4 +7,4 @@ flags:
       name: hems
       type: BOOLEAN_FLAG_TYPE
       description: my first key
-      enabled: true
+      enabled: false
