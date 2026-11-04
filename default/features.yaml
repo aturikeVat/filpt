@@ -1,0 +1,10 @@
+version: "1.6"
+namespace:
+    key: default
+    name: Default
+flags:
+    - key: hems
+      name: hems
+      type: BOOLEAN_FLAG_TYPE
+      description: my first key
+      enabled: false
