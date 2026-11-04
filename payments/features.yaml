@@ -6,4 +6,4 @@ flags:
     - key: hems
       name: hems
       type: BOOLEAN_FLAG_TYPE
-      enabled: false
+      enabled: true
